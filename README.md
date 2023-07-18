@@ -1,13 +1,13 @@
-# IoT-Project-Micropython▶️
+# IoT-Project-Micropython▶️🤷‍♂️
 
-La **Internet de las cosas (IoT)** desempeña un papel fundamental en la **Industria 4.0** al permitir la conectividad y comunicación de dispositivos, sensores y sistemas en red. Esto posibilita la recopilación de datos en tiempo real, la optimización de procesos, la automatización y la toma de decisiones autónomas, impulsando así la eficiencia, la productividad y la innovación en los entornos industriales. 
+The **Internet of Things (IoT)** plays a key role in **Industry 4.0** by enabling the connectivity and communication of networked devices, sensors and systems. This enables real-time data collection, process optimization, automation and autonomous decision making, thus driving efficiency, productivity and innovation in industrial environments. 🤞
 ![](https://www.cibernos.com/hubfs/industry-2496192_1920.jpg)🔗
-Debido a esto, este repositiorio consiste en la implementación de un proyecto de IoT para el control de una **banda transportadora con troqueladora**‼️ utilizando el sistema de construcción educativo de **Fischertechnik**⚡. Fischertechnik es un sistema de construcción educativo que utiliza kits modulares para explorar conceptos de ingeniería y tecnología a través de la construcción de modelos funcionales y la integración de componentes electrónicos. Es utilizado en entornos educativos y proyectos de hobby.🌐
+Because of this, this repository consists of the implementation of an IoT project for the control of a **conveyor belt with die cutter**‼️ using the **Fischertechnik**⚡ educational building system. Fischertechnik is an educational build system that uses modular kits to explore engineering and technology concepts through the construction of functional models and the integration of electronic components. It is used in educational settings and hobby projects.🌐
 ![](https://www.maquinasvirtuales.eu/ipsoapoo/2022/02/esp32-configurar-wifi-con-micropython-2.png)🔗
 
-En el proyecto de IoT, la programación de la banda transportadora con troqueladora se realizó utilizando **MicroPython**😍. MicroPython es una implementación del lenguaje de programación Python optimizado para microcontroladores y dispositivos de bajo consumo de energía. Permite la programación de forma sencilla y eficiente de dispositivos IoT, brindando flexibilidad y capacidad de interacción con sensores, actuadores y otros componentes. En este caso, MicroPython se utilizó para controlar el funcionamiento y la automatización de la banda transportadora y la troqueladora, permitiendo su integración y operación en el contexto del proyecto de IoT.🫡
+In the IoT project, the programming of the conveyor belt with die cutter was performed using **MicroPython**😍. MicroPython is an implementation of the Python programming language optimized for microcontrollers and low-power devices. It enables simple and efficient programming of IoT devices, providing flexibility and the ability to interact with sensors, actuators and other components. In this case, MicroPython was used to control the operation and automation of the conveyor belt and die cutter, allowing its integration and operation in the context of the IoT project..🫡
 
-![IMG_0107](https://github.com/JuanGascaCalderon/IoT-Project-Micropython/assets/85767018/6f60c508-c3df-4acf-b883-3ba3b8c5bf20)🤞
-![IMG_0108](https://github.com/JuanGascaCalderon/IoT-Project-Micropython/assets/85767018/b152cc84-1121-4dfb-a854-c564bca8f212)🤷‍♂️
+![IMG_0107](https://github.com/JuanGascaCalderon/IoT-Project-Micropython/assets/85767018/6f60c508-c3df-4acf-b883-3ba3b8c5bf20)
+![IMG_0108](https://github.com/JuanGascaCalderon/IoT-Project-Micropython/assets/85767018/b152cc84-1121-4dfb-a854-c564bca8f212)🤷‍♂
 
-Aquí puedes encontrar la planta en funcionamiento😊: **https://drive.google.com/file/d/1EHui3Dm-DL56sqeFga3E6Jic_SmFEo6j/view?usp=drive_link**🔗
+Here you can find the plant in operation 😊: **https://drive.google.com/file/d/1EHui3Dm-DL56sqeFga3E6Jic_SmFEo6j/view?usp=drive_link**🔗
